@@ -1,1 +1,12 @@
-# Weighted Monte Carlo augmented spherical Fourier-Bessel convolutional layers for 3D abdominal organ segmentation
+# Efficient 3D affinely equivariant CNNs with adaptive fusion of augmented spherical Fourier-Bessel bases
+
+
+## Installation
+
+
+## Usage
+
+
+## Citation
+
+
