@@ -6,6 +6,10 @@
 
 ## Usage
 
+The template command for equivariance test
+```bash
+nnUNetv2_train DATASET_NAME_OR_ID UNET_CONFIGURATION FOLD --equivariance_test
+```
 
 ## Citation
 
