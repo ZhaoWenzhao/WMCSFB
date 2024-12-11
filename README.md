@@ -18,4 +18,6 @@ nnUNetv2_train DATASET_NAME_OR_ID UNET_CONFIGURATION FOLD --equivariance_test
 
 [https://github.com/MIC-DKFZ/nnUNet](https://github.com/MIC-DKFZ/nnUNet)
 
+[https://github.com/MIC-DKFZ/MedNeXt](https://github.com/MIC-DKFZ/MedNeXt)
+
 [https://github.com/ZichenMiao/RotDCF](https://github.com/ZichenMiao/RotDCF)
